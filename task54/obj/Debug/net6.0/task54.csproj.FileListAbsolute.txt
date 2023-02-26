@@ -1,0 +1,15 @@
+D:\Ольга\учеба ИТ\c#\DZ8\task54\bin\Debug\net6.0\task54.exe
+D:\Ольга\учеба ИТ\c#\DZ8\task54\bin\Debug\net6.0\task54.deps.json
+D:\Ольга\учеба ИТ\c#\DZ8\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+D:\Ольга\учеба ИТ\c#\DZ8\task54\bin\Debug\net6.0\task54.dll
+D:\Ольга\учеба ИТ\c#\DZ8\task54\bin\Debug\net6.0\task54.pdb
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.dll
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\refint\task54.dll
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.pdb
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
+D:\Ольга\учеба ИТ\c#\DZ8\task54\obj\Debug\net6.0\ref\task54.dll

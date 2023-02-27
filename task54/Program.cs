@@ -44,22 +44,20 @@ void PrintMatrix(int[,] matrix)
 
 int[,] MaxToMin(int[,] matr)
 {
-    int MaxI = 0;
     for (int i = 0; i < matr.GetLength(0); i++)
     {
         for (int j = 0; j < matr.GetLength(1) - 1; j++)
         {
             for (int MaxJ = j+1; MaxJ < matr.GetLength(1); MaxJ++)
             {
-                if (matr[i, j] < matr[MaxI, MaxJ])
+                if (matr[i, j] < matr[i, MaxJ])
                 {
                     int temp = matr[i, j];
-                    matr[i, j] = matr[MaxI, MaxJ];
-                    matr[MaxI, MaxJ] = temp;
+                    matr[i, j] = matr[i, MaxJ];
+                    matr[i, MaxJ] = temp;
                 }
             }
         }
-        MaxI++;
         
     }
     return matr;
